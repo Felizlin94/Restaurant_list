@@ -1,6 +1,6 @@
 # Restaurant List 
 
-You can browse some restaurants here.
+You can check out some restaurants here.
 
 # Function  
 1. Check out these eight restaurants;
